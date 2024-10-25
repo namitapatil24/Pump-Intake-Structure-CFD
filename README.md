@@ -1,4 +1,4 @@
-# Pump Intake Structure CFD Analysis 
+# Pump Intake Structure Hydraulic Design Validation - CFD Analysis and Physical Model Test
 
 **Project Lead:** Namita Patil
 **Company:** SALT Design and Infra Services
