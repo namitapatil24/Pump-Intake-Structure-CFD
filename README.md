@@ -7,11 +7,11 @@
 
 ## 📖 Project Overview
 
-This project involved the **CFD analysis and physical model validation** of a **pump intake structure** with **17 vertical turbine (VT) pumps** and a total flow rate of **32 cubic meters per second**. The primary goal was to optimize the intake design to reduce hydraulic issues, such as swirl and vortices, which can impact pump efficiency and lifespan. The analysis achieved close alignment with the physical model study, with a validation error of **less than 5% in swirl angle data**.
+This project involved the **CFD analysis and physical model validation** of a **pump intake structure** with **17 vertical turbine (VT) pumps** and a total flow rate of **32 cubic meters per second**. The primary goal was to optimise the intake design to reduce hydraulic issues, such as swirl and vortices, which can impact pump efficiency and lifespan. The analysis achieved close alignment with the physical model study, with a validation error of **less than 5% in swirl angle data**.
 
 ### 🏆 Key Objectives
 
-1. **Optimize** the pump intake structure design to improve hydraulic performance and reduce swirl.
+1. **Optimise** the pump intake structure design to improve hydraulic performance and reduce swirl.
 2. **Validate** CFD simulations through physical model studies, achieving accurate predictions with minimal error.
 3. **Ensure** adherence to Hydraulic Institute (ANSI/HI) standards for pump intake design.
 
@@ -37,7 +37,7 @@ This project involved the **CFD analysis and physical model validation** of a **
 
 ## 📊 Findings and Analysis
 
-- **Flow Patterns and Swirl Reduction:** The optimized intake structure design minimized vortex formation, improving flow uniformity and reducing swirl at the pump inlets.
+- **Flow Patterns and Swirl Reduction:** The optimised intake structure design minimised vortex formation, improving flow uniformity and reducing swirl at the pump inlets.
 - **CFD and Physical Study Validation:**  
    - Achieved close alignment with physical model results, with swirl angle data matching within a **5% error margin**.
    - Validation demonstrated the reliability of CFD for predicting hydraulic behavior in complex intake structures.
@@ -55,7 +55,7 @@ This project involved the **CFD analysis and physical model validation** of a **
 
 ## 📌 Key Contributions
 
-1. **Optimized Design** for a large-scale pump intake structure, improving efficiency and reducing operational risks.
+1. **Optimised Design** for a large-scale pump intake structure, improving efficiency and reducing operational risks.
 2. **Accurate CFD Validation** against physical studies, establishing confidence in using CFD for intake structure designs.
 
 ---
